@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131988" started-at="2016-06-17T05:42:06Z" finished-at="2016-06-17T05:44:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="131988" started-at="2016-06-17T05:42:06Z" finished-at="2016-06-17T05:44:18Z">
+      <class name="samplemaven.Checkbox_Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:samplemaven.Checkbox_Test@cd2b045]" name="beforeClass" is-config="true" duration-ms="14020" started-at="2016-06-17T11:13:42Z" finished-at="2016-06-17T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCheckbox_Test()[pri:0, instance:samplemaven.Checkbox_Test@cd2b045]" name="testCheckbox_Test" duration-ms="20702" started-at="2016-06-17T11:13:56Z" finished-at="2016-06-17T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckbox_Test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:samplemaven.Checkbox_Test@cd2b045]" name="afterClass" is-config="true" duration-ms="616" started-at="2016-06-17T11:14:17Z" finished-at="2016-06-17T11:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- samplemaven.Checkbox_Test -->
+      <class name="samplemaven.DragandDrop">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:samplemaven.DragandDrop@3fa3a66c]" name="beforeClass" is-config="true" duration-ms="11077" started-at="2016-06-17T11:12:32Z" finished-at="2016-06-17T11:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testDragandDrop()[pri:0, instance:samplemaven.DragandDrop@3fa3a66c]" name="testDragandDrop" duration-ms="19419" started-at="2016-06-17T11:12:43Z" finished-at="2016-06-17T11:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragandDrop -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:samplemaven.DragandDrop@3fa3a66c]" name="afterClass" is-config="true" duration-ms="476" started-at="2016-06-17T11:13:03Z" finished-at="2016-06-17T11:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- samplemaven.DragandDrop -->
+      <class name="samplemaven.Displayed_Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:samplemaven.Displayed_Test@636b1b61]" name="beforeClass" is-config="true" duration-ms="10207" started-at="2016-06-17T11:13:26Z" finished-at="2016-06-17T11:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testDisplayed_Test()[pri:0, instance:samplemaven.Displayed_Test@636b1b61]" name="testDisplayed_Test" duration-ms="5919" started-at="2016-06-17T11:13:36Z" finished-at="2016-06-17T11:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDisplayed_Test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:samplemaven.Displayed_Test@636b1b61]" name="afterClass" is-config="true" duration-ms="399" started-at="2016-06-17T11:13:42Z" finished-at="2016-06-17T11:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- samplemaven.Displayed_Test -->
+      <class name="samplemaven.Dropdown_Count">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:samplemaven.Dropdown_Count@11031d18]" name="beforeClass" is-config="true" duration-ms="15585" started-at="2016-06-17T11:13:03Z" finished-at="2016-06-17T11:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testDropdown_Count()[pri:0, instance:samplemaven.Dropdown_Count@11031d18]" name="testDropdown_Count" duration-ms="6388" started-at="2016-06-17T11:13:19Z" finished-at="2016-06-17T11:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown_Count -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:samplemaven.Dropdown_Count@11031d18]" name="afterClass" is-config="true" duration-ms="313" started-at="2016-06-17T11:13:25Z" finished-at="2016-06-17T11:13:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- samplemaven.Dropdown_Count -->
+      <class name="samplemaven.Basics_Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:samplemaven.Basics_Test@1f4e1672]" name="beforeClass" is-config="true" duration-ms="17033" started-at="2016-06-17T11:12:06Z" finished-at="2016-06-17T11:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testBasics_Test()[pri:0, instance:samplemaven.Basics_Test@1f4e1672]" name="testBasics_Test" duration-ms="9253" started-at="2016-06-17T11:12:23Z" finished-at="2016-06-17T11:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasics_Test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:samplemaven.Basics_Test@1f4e1672]" name="afterClass" is-config="true" duration-ms="559" started-at="2016-06-17T11:12:32Z" finished-at="2016-06-17T11:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- samplemaven.Basics_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+      <class name="samplemaven.Basics_Test"/>
+      <class name="samplemaven.DragandDrop"/>
+      <class name="samplemaven.Dropdown_Count"/>
+      <class name="samplemaven.Displayed_Test"/>
+      <class name="samplemaven.Checkbox_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
