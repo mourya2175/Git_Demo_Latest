@@ -16,6 +16,7 @@ public class Basics_Test {
 	  driver.findElement(By.xpath("//span[@id='u_0_h']/span[1]/input")).click();
 	  driver.findElement(By.name("websubmit")).click();
 	  driver.findElement(By.linkText("Create a Page")).click();
+	  Thread.sleep(5000);
 	  
   }
   @BeforeClass
