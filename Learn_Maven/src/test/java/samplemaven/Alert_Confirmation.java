@@ -23,7 +23,7 @@ public class Alert_Confirmation {
 		//cancel button
 //		driver.switchTo().alert().dismiss();
 		driver.findElement(By.id("ctl00_ibtnLogIn")).click();
-		Thread.sleep(2000);
+		
 		
 	}
 	@BeforeClass
